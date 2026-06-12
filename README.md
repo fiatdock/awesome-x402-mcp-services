@@ -5,6 +5,7 @@ Curated list of awesome commercial services that require x402 payments and use M
 ### Table of Contents
 
 - [Search](#search)
+- [Finance](#finance)
 
 ### Helpful Links
 
@@ -15,6 +16,10 @@ Curated list of awesome commercial services that require x402 payments and use M
 ### Search
 
 - [Recall Kitchen](https://recallkitchen.com/docs/#mcp) offers search for product, food, and vehicle recalls.
+
+### Finance
+
+- [FiatDock](https://fiatdock.com) - Non-custodial USDC ↔ bank on/off-ramp for AI agents. Free quotes and order tracking; session creation costs $0.05 USDC via x402 (Base). MCP: remote `https://fiatdock.com/mcp` or `npx fiatdock-mcp` (auto-pays with AGENT_PRIVATE_KEY). No accounts — KYC/custody by a licensed provider.
 
 ## Developers
 
