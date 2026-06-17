@@ -19,7 +19,7 @@ Curated list of awesome commercial services that require x402 payments and use M
 
 ### Finance
 
-- [FiatDock](https://fiatdock.com) - Non-custodial USDC ↔ bank on/off-ramp for AI agents. Free quotes and order tracking; session creation costs $0.05 USDC via x402 (Base). MCP: remote `https://fiatdock.com/mcp` or `npx fiatdock-mcp` (auto-pays with AGENT_PRIVATE_KEY). No accounts — KYC/custody by a licensed provider.
+- [FiatDock](https://fiatdock.com) - Non-custodial marketplace where AI agents discover and pay for MCP services per call in USDC via x402 (Base). 3 MCP tools: `search_services`, `get_service`, `call_service` (auto 402→sign→retry). Payments settle directly buyer-wallet → seller-wallet; 1% on-chain split (0% a seller's first 30 days), never custodial. Sellers list free. Also a non-custodial USDC↔bank on/off-ramp. Remote `https://fiatdock.com/mcp` or `npx fiatdock-mcp`.
 
 ## Developers
 
